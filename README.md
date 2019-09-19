@@ -1,16 +1,14 @@
-# tailwind-palettes
-TailwindCSS palettes for Sketch `.sketchpalette`
+# TailwindCSS color palette for Sketch Palettes plugin
 
+<img src="screen.png" style="display: block; width: 100%;" />
 
-# TailwindCSS color palette for Sketch
-
-You can load all colors at once from [all.sketchpalette][all-colors] or separately. The `.sketchpalette` format is used in the [Sketch Palettes][sketch-palettes] plugin.
+You can load all colors at once from [all.sketchpalette][all-palettes] or separately (`.sketchpalette` format is used in the [Sketch Palettes][plugin] plugin).
 
 ## Installation
 
-* Install [Sketch Palettes][sketch-palettes] plugin
-* Download [this file][all.sketchpalette]
-* Follow the [instruction on the plugin][sketch-palettes]
+* Download [all.sketchpalette][all-palettes]
+* Install [Sketch Palettes][plugin] plugin
+* Follow the plugin [instructions][plugin]
 
-[sketch-palettes]: https://github.com/andrewfiorillo/sketch-palettes
-[all-colors]: https://github.com/ivanvotti/tailwind-palettes/all.sketchpalette
+[plugin]: https://github.com/andrewfiorillo/sketch-palettes
+[all-palettes]: https://github.com/ivanvotti/tailwind-palettes/releases/download/0.1/all.sketchpalette
